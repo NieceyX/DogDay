@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\denie\OneDrive\Documents\BVU\CompSci\CS2\Project\Dogs.h(14,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\denie\OneDrive\Documents\BVU\CompSci\CS2\Project\Dogs.h(71,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\denie\OneDrive\Documents\BVU\CompSci\CS2\Project\Dogs.h(19): warning C4715: 'Dog::find': not all control paths return a value
+  Project.vcxproj -> C:\Users\denie\OneDrive\Documents\BVU\CompSci\CS2\Project\Debug\Project.exe
